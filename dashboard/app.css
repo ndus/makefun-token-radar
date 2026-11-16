@@ -120,3 +120,5 @@ footer{flex-direction:column}
 .snapshot{font-size:10px}
 .model-line{font-size:11px}
 }
+
+h1:focus{outline:none}
